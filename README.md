@@ -64,11 +64,4 @@ The goal is to build a regression model that accurately predicts house sale pric
 - [Kaggle](https://www.kaggle.com/)  
 - [XGBoost Documentation](https://xgboost.readthedocs.io/)  
 
-## 📬 Contact
 
-**Author:** Aya Lemzouri  
-**Email:** your.email@example.com
-
----
-
-You’re all set — let me know if you want help making a GitHub Actions badge or adding `.gitignore`, `LICENSE`, etc.
